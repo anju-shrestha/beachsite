@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/beachsite/static/css/main.53bfb0d6.css",
+    "main.js": "/beachsite/static/js/main.7d18cbbd.js",
+    "static/media/beachVid.mp4": "/beachsite/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/beach.jpg": "/beachsite/static/media/beach.55b31d84453ff3dd410d.jpg",
+    "static/media/Maldives.jpg": "/beachsite/static/media/Maldives.f75bcca29911ed51af27.jpg",
+    "static/media/Borabora2.jpg": "/beachsite/static/media/Borabora2.b058ff9533eebee0431a.jpg",
+    "static/media/Juhu.jpg": "/beachsite/static/media/Juhu.74d50d7bf3da31cdb984.jpg",
+    "static/media/WestCoast.jpg": "/beachsite/static/media/WestCoast.c90e31637c30b09503cc.jpg",
+    "static/media/Borabora.jpg": "/beachsite/static/media/Borabora.f21d9f84c5763a1dd4fa.jpg",
+    "static/media/Goa.jpg": "/beachsite/static/media/Goa.3349d0576eb36ce892f6.jpg",
+    "index.html": "/beachsite/index.html",
+    "main.53bfb0d6.css.map": "/beachsite/static/css/main.53bfb0d6.css.map",
+    "main.7d18cbbd.js.map": "/beachsite/static/js/main.7d18cbbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bfb0d6.css",
+    "static/js/main.7d18cbbd.js"
+  ]
+}
